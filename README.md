@@ -1,4 +1,10 @@
 # CodeIgniter 4 Application Starter
+# About My Journal
+
+## What is my purpose creating this journal?
+it's actually not really important for others. but for me, it's my first time to save my doc on github while I learning how to code, specially using framework CodeIgniter 4, by following youtube channel Web Programming UNPAS. Thanks for my sandhika for his tutorial, and thanks a lot for everyone who see this doc or journal. sorry if my doc is using indonesian language, because I'm from Indonesia.
+
+
 
 ## What is CodeIgniter?
 
